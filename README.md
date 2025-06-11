@@ -9,6 +9,9 @@ Hello :D
 ### Back-end:
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
 
+### AI & Vector Search
+<img src="https://img.shields.io/badge/milvus-%23B24592.svg?style=for-the-badge&logo=milvus&logoColor=white"> <img src="https://img.shields.io/badge/openai-%23444444.svg?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blueviolet?style=for-the-badge">
+
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=NguyenVoTheTuyen&theme=tokyonight&show_icons=true&count_private=true">
 <br/>
